@@ -33,7 +33,7 @@ print('Данные загружены')
 
 
 #Настройки
-updater = Updater(token='1784270377:AAExiYSPLvDcFRfOXwFuoPu0JX-cf-eO0RI') # Токен API к Telegram
+updater = Updater(token='****') # Токен API к Telegram
 dispatcher = updater.dispatcher
 
 hello_text = "Привет, я бот изобретенный Виталиком. \n  \

@@ -20,7 +20,7 @@ model = model.eval()
 print('Данные загружены')
 
 #Настройки
-updater = Updater(token='1975804308:AAEV02-2kVTTHm0zy9ijr7Pq5eISA9SHY4c') # Токен API к Telegram
+updater = Updater(token='***') # Токен API к Telegram
 dispatcher = updater.dispatcher
 
 hello_text = "Привет, я бот. \n  \
